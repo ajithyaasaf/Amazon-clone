@@ -309,7 +309,7 @@ button {
     font-size: 0.7rem;
   }
   .hero {
-    width: 1700px;
+    width: 100%;
     background-size: cover;
     background-position: center;
   }
